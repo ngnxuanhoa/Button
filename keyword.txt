@@ -1,0 +1,10 @@
+Button
+Press
+Release
+ShortPress
+LongPress
+Debounce
+Arduino
+Input
+Digital
+Switch
