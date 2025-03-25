@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#include "Button.h"
+#include <Button.h>
 
 #define BUTTON1_PIN 2  // Chân kết nối với nút nhấn 1
 #define BUTTON2_PIN 3  // Chân kết nối với nút nhấn 2
