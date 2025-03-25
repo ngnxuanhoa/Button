@@ -16,13 +16,13 @@ This library provides an easy way to handle button states on Arduino, including:
 1. Copy `Button.h` and `Button.cpp` into your Arduino project folder.
 2. Include the library in your sketch:
     ```cpp
-    #include "Button.h"
+    #include <Button.h>
     ```
 
 ## Example Usage
 ```cpp
 #include <Arduino.h>
-#include "Button.h"
+#include <Button.h>
 
 #define BUTTON_PIN 2
 Button button(BUTTON_PIN);
